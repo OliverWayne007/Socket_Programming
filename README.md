@@ -5,4 +5,4 @@
 
 ### - The server manages multiple clients concurrently using multithreading.
 ### - Clients establish socket connections with the server to send and receive messages.
-### - Messages from clients are broadcasted to all other clients, enabling real-time group chat functionality
+### - Messages from clients are broadcasted to all other clients by the server, enabling real-time group chat functionality.
